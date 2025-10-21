@@ -48,7 +48,7 @@ int main()
             case 0:
                 Exit(0);
             default:
-                printf("Cannot performe any operation in this number.");
+                printf("Cannot perform any operation in this number.");
         }
     }
 
